@@ -46,3 +46,13 @@ coverage/
 # Temporary folders
 tmp/
 temp/
+
+# Project cleanup - exclude irrelevant directories
+ICT-Support-Officer-Portfolio/
+Jason Resume for headhunter/
+
+# Exclude irrelevant files
+*.pdf
+*.txt
+*headhunter*
+*resume*
